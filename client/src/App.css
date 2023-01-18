@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+body{
+  background-image: url(/home/zullicm/development/code/phase-5/golf/client/src/Images/HomeImage.jpg);
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +39,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.logo{
+  padding-left: 2%;
+}
+
+.navuser{
+  padding-right: 2%;
 }
